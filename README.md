@@ -155,3 +155,6 @@ contract, read [docs/security.md](docs/security.md) first.
 
 <!-- handsoff-issue-851 -->
 - #851: [Contract] Dispute timeout auto resolution
+
+<!-- handsoff-issue-853 -->
+- #853: [Contract] Add get_bounties_by_assignee query
